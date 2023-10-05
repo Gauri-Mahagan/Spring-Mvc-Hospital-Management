@@ -5,6 +5,7 @@ import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
 
 import java.sql.SQLException;
+//this is dao layer
 
 public class SearchDoctorsDao {
     JdbcTemplate jdbcTemplate;
